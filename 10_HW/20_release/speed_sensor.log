@@ -1,0 +1,7 @@
+Questionable use of curly braces in "(net (code "17") (name "/d10(**{slash}ss)")"
+    Error: undefined symbol in: "[slash]"
+Questionable use of curly braces in "(net (code "18") (name "/d11(**{slash}mosi)")"
+    Error: undefined symbol in: "[slash]"
+Circuit: (export (version "E")
+
+Fatal Error: Unknown SPICE device type "(" in "(design"
